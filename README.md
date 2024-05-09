@@ -11,6 +11,9 @@ The dataset used in this project comprises detailed information about flights, i
 
 **Data Source:** The data is obtained from [Kaggle]({https://www.kaggle.com/datasets/usdot/flight-delays}). These datasets are provided by the U.S. Department of Transportation's (DOT) Bureau of Transportation Statistics, which tracks the on-time performance of domestic flights operated by large air carriers. Summary information on the number of on-time, delayed, canceled, and diverted flights is published in DOT's monthly Air Travel Consumer Report and in this dataset of 2015 flight delays and cancellations.
 
+## Jupyter Notebook Output 📊
+The output of the Jupyter Notebook containing the SQL queries, data analysis, and visualizations is available [here]({https://launchpad-i9dg5fbtx14c.curve.space/sql-code}).
+
 ## Tools and Technologies 🛠️
 For this project, I'll primarily be using SQL to query and manipulate the dataset. Additionally, I'll leverage Python for any necessary data preprocessing tasks and to create interactive visualizations within a Jupyter Notebook environment.
 
