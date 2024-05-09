@@ -1,0 +1,11 @@
+-Get the information for the longuest flight
+
+- TOP 10 airlines witht the biggest number of flight /
+
+- Busiest day for each airport
+
+- Airline with the biggest delay
+
+- % of flight delay per month 
+
+-The most used airport for each airline (Rank)
