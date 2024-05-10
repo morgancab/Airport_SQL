@@ -9,10 +9,10 @@ The primary objective of this project is to demonstrate my SQL skills in handlin
 ## Dataset 📊
 The dataset used in this project comprises detailed information about flights, including departure and arrival times, airlines, airports, and other relevant attributes. This dataset serves as the foundation for my SQL analysis, allowing me to explore different facets of the aviation industry.
 
-**Data Source:** The data is obtained from [Kaggle]({https://www.kaggle.com/datasets/usdot/flight-delays}). These datasets are provided by the U.S. Department of Transportation's (DOT) Bureau of Transportation Statistics, which tracks the on-time performance of domestic flights operated by large air carriers. Summary information on the number of on-time, delayed, canceled, and diverted flights is published in DOT's monthly Air Travel Consumer Report and in this dataset of 2015 flight delays and cancellations.
+**Data Source:** The data is obtained from [Kaggle](https://www.kaggle.com/datasets/usdot/flight-delays). These datasets are provided by the U.S. Department of Transportation's (DOT) Bureau of Transportation Statistics, which tracks the on-time performance of domestic flights operated by large air carriers. Summary information on the number of on-time, delayed, canceled, and diverted flights is published in DOT's monthly Air Travel Consumer Report and in this dataset of 2015 flight delays and cancellations.
 
 ## Jupyter Notebook Output 📊
-The output of the Jupyter Notebook containing the SQL queries, data analysis, and visualizations is available [here]({https://launchpad-i9dg5fbtx14c.curve.space/sql-code}).
+The output of the Jupyter Notebook containing the SQL queries, data analysis, and visualizations is available [here](https://launchpad-m2ce8r2824k7.curve.space/).
 
 ## Tools and Technologies 🛠️
 For this project, I'll primarily be using SQL to query and manipulate the dataset. Additionally, I'll leverage Python for any necessary data preprocessing tasks and to create interactive visualizations within a Jupyter Notebook environment.
